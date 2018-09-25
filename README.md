@@ -1,3 +1,6 @@
 C++ Exercises
-Functions are:
-Matrix: Mulitply, Determinant
+=========================
+
+## Matrix
+-Mulitply: two inputs, arbitrary dimension, return error
+-Determinant: arbitrary dimension, return error
